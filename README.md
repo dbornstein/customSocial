@@ -16,6 +16,9 @@ This Brightcove Player plugin provide macro functionality for the embedCode.  Th
 * Under _Plugins>Options (JSON)_, enter the configuration options described below and click `+`.
 
 ## Plugin Configuration
+
+This example inserts the location.hostname (domain name) of the calling site into the embedCode by replacing the instance of {domain}
+
 ```json
 {
   "debug": true,
