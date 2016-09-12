@@ -2,7 +2,7 @@
 Brightcove player plugin to allow dynamic customization of the social sharing embedCode
 
 
-This Brightcove Player plugin provide macro functionality for the embedCode.  This is most useful to change the embedCode with in-page or with data from Video Cloud custom metadata.
+This Brightcove Player plugin provide macro functionality for the embedCode.  This is most useful to change the embedCode with in-page variables or with metadata from Video Cloud.
 
 
 
