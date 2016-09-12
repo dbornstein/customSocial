@@ -22,7 +22,7 @@ This Brightcove Player plugin provide macro functionality for the embedCode.  Th
   "embedMacros": {
     "{domain}": "location.hostname"
   },
-  "embedCode": "<iframe src='//players.brightcove.net/769341148/rJPvbTkK_default/index.html?videoId=5069740903001&domain={domain}' allowfullscreen frameborder=0></iframe>",
+  "embedCode": "<iframe src='//players.brightcove.net/1235/default_default/index.html?videoId=12345678&domain={domain}' allowfullscreen frameborder=0></iframe>",
   "services": {
     "linkedin": true,
     "pinterest": true,
